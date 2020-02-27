@@ -1,7 +1,8 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+# Fresh Data Science Discoveries, Best Served Warm
+Welcome to the Best Served Warm blog! My name is Jaxon Keeler and I hope to share my data science journey as candidly as possible. This blog will be where I publish my most recent discoveries in the world of data science, as well as other thoughts on the process of developing a career in data science. While some posts will be polished and thorough, many will be works-in-progress that I will update in real-time as I work through a particular subject matter. I want all my readers to experience the journey with me and to see that it's OK to make mistakes along the way. I hope to encourage budding practitioners to keep going, and I hope that my own progress in this field serves as inspiration.
 
-![Image of fast.ai logo](images/logo.png)
+# About Me
+I graduated with a B.S. in Computer Science at Brigham Young University with a Business Minor. Most of my internships were all for software development positions, and then around my senior year I realized I was fascinated with machine learning and wanted to pivot into that field. I was fortunate enough to land a position as a Machine Learning Researcher at Stratesis Technologies, LLC - a technology-based hedge fund. While there I discovered the fastai library and have worked hard to transition the company to deep learning.
 
-## This is a title
+My dream is to solve real-world problems - especially in the lives of those who suffer disproportionately. I feel that I have  received so much but up to this point have given so little in comparison. I hope to acquire skillsets that will allow me to fulfill this dream, and believe I am making real progress to that end. If any of you are working on solving such problems as poverty, homelessness, recidivism, healthcare, etc. (especially by using data science), please feel free to contact me using the links in the footer.
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
