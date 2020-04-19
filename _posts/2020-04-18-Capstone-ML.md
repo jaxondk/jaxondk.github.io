@@ -1,7 +1,7 @@
 # Capstone: Automating Fall Detection with Machine Learning
 
 <span style="display:block" align='center'>![](https://lh3.googleusercontent.com/N7P7ev9yDfH3a2jymfuFhypfQFSY6erYoPiKmx6cZjOGZE6UjywWKlITvvx1ErRSdPuAHAcOBWCRXf31JgsjsQZNXn5g6Lxr-TMJCCXcLUBkosMuQfGm8RDDFq7O2uuVtWTGJwBNgw4)![](https://lh3.googleusercontent.com/3FMh2SiGmx5xJMLhDwroL9wlX2Vb4Pwq5W64AjHCH-13APt1od9o1d32juXAn-4PHl6IFEr-ohc07q-LiuhU23EzK1bTScnQ63_I34RpcLBjsTnDHG07XsEP-bfCDTk2aKN7sjbNSxE)![Processing video to detect a fall on camera](https://lh3.googleusercontent.com/604dTSvSMBWxoDQ7W_xM2UNIsWtywuq8WOPyn9qkdb9bKQ7OAbpwuF-1Ns_zftkrWRi7Kgm88R4P2Hp0tCBRAAmxbAMRbOoyUZ1HjyOQIh1iEAoqMISs0-bZHKh_sbgoPrqpa-jX_FI)
-*Processing video to detect a fall on camera*</div>
+*Processing video to detect a fall on camera*
 
 
 ## Context 
