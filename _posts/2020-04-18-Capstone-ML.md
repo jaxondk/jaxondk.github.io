@@ -1,9 +1,8 @@
 # Capstone: Automating Fall Detection with Machine Learning
-<div align='center'>
 
-![](https://lh3.googleusercontent.com/N7P7ev9yDfH3a2jymfuFhypfQFSY6erYoPiKmx6cZjOGZE6UjywWKlITvvx1ErRSdPuAHAcOBWCRXf31JgsjsQZNXn5g6Lxr-TMJCCXcLUBkosMuQfGm8RDDFq7O2uuVtWTGJwBNgw4)![](https://lh3.googleusercontent.com/3FMh2SiGmx5xJMLhDwroL9wlX2Vb4Pwq5W64AjHCH-13APt1od9o1d32juXAn-4PHl6IFEr-ohc07q-LiuhU23EzK1bTScnQ63_I34RpcLBjsTnDHG07XsEP-bfCDTk2aKN7sjbNSxE)![Processing video to detect a fall on camera](https://lh3.googleusercontent.com/604dTSvSMBWxoDQ7W_xM2UNIsWtywuq8WOPyn9qkdb9bKQ7OAbpwuF-1Ns_zftkrWRi7Kgm88R4P2Hp0tCBRAAmxbAMRbOoyUZ1HjyOQIh1iEAoqMISs0-bZHKh_sbgoPrqpa-jX_FI)
-*Processing video to detect a fall on camera*
-</div>
+<span style="display:block" align='center'>![](https://lh3.googleusercontent.com/N7P7ev9yDfH3a2jymfuFhypfQFSY6erYoPiKmx6cZjOGZE6UjywWKlITvvx1ErRSdPuAHAcOBWCRXf31JgsjsQZNXn5g6Lxr-TMJCCXcLUBkosMuQfGm8RDDFq7O2uuVtWTGJwBNgw4)![](https://lh3.googleusercontent.com/3FMh2SiGmx5xJMLhDwroL9wlX2Vb4Pwq5W64AjHCH-13APt1od9o1d32juXAn-4PHl6IFEr-ohc07q-LiuhU23EzK1bTScnQ63_I34RpcLBjsTnDHG07XsEP-bfCDTk2aKN7sjbNSxE)![Processing video to detect a fall on camera](https://lh3.googleusercontent.com/604dTSvSMBWxoDQ7W_xM2UNIsWtywuq8WOPyn9qkdb9bKQ7OAbpwuF-1Ns_zftkrWRi7Kgm88R4P2Hp0tCBRAAmxbAMRbOoyUZ1HjyOQIh1iEAoqMISs0-bZHKh_sbgoPrqpa-jX_FI)
+*Processing video to detect a fall on camera*</div>
+
 
 ## Context 
 In my final two semesters of college I completed a capstone project in coordination with a local company - Vivint SmartHome (VSH). VSH has a line of in-home cameras that customers purchase for home security. Two fellow classmates and I were tasked with prototyping a new feature for them: automatically detecting if a person has fallen over. Our little 3-person team was multidisciplinary, and, as is the case in most undergraduate group projects, we each had varying interests in different aspects of the project. I was very interested in ML at the time and relished the opportunity to tackle a real-world problem with ML. As such, I led the effort on researching and designing the data processing, modeling, and overall ML approach, and that will be the focus of this blog post. 
